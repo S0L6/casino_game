@@ -81,6 +81,9 @@ bar.description = "A marble floor surrounds you. A bar with hundreds of differen
 
 # ------ BASIC AREA ------ #
 
+# ------ LINKING ROOMS ------ #
+lobbys.link_rooms(lobbyn, "North")
+
 
 # ------ INITIALISE VARIABLES ------ #
 current_room = lobbys
